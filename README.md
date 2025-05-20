@@ -2,7 +2,7 @@
 
 Take over every round of **Piggy** with **Jaguar Hub**, the ultimate **keyless control panel** that lets you teleport to items, pick them up automatically, and dominate with full ESP visibility and vote automation. Whether you're a player, ghost, or observer—you're in charge.
 
-![script-image](image-link-placeholder)
+![script-image](https://github.com/Ozair324/Piggy-Jaguar-Hub/blob/main/Piggy%20Jaguar%20Hub%20-%20Full%20Match%20Control%20Script.png)
 
 ---
 
